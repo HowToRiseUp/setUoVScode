@@ -37,6 +37,7 @@
 - Letter spacing: 0
 - Word warp: on
 - Word warp column: 100
+- Side Bar: right
 
 # Shortcut
 
